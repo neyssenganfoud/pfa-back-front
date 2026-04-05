@@ -1,0 +1,66 @@
+{
+	"info": {
+		"_postman_id": "hotel-api-collection",
+		"name": "API Hotel - Collection",
+		"description": "Collection Postman pour tester les APIs de gestion d'hôtel",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Chambres",
+			"item": [
+				{
+					"name": "Ajouter une nouvelle chambre",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "photo",
+									"type": "file",
+									"src": [],
+									"description": "Photo de la chambre"
+								},
+								{
+									"key": "roomType",
+									"value": "Suite Deluxe",
+									"type": "text",
+									"description": "Type de la chambre"
+								},
+								{
+									"key": "roomPrice",
+									"value": "150.00",
+									"type": "text",
+									"description": "Prix de la chambre"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{base_url}}/rooms/add/new-room",
+							"host": [
+								"{{base_url}}"
+							],
+							"path": [
+								"rooms",
+								"add",
+								"new-room"
+							]
+						},
+						"description": "Ajoute une nouvelle chambre avec photo, type et prix"
+					},
+					"response": []
+				}
+			],
+			"description": "Endpoints pour la gestion des chambres"
+		}
+	],
+	"variable": [
+		{
+			"key": "base_url",
+			"value": "http://localhost:8080",
+			"type": "string"
+		}
+	]
+}

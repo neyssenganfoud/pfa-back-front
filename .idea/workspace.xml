@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="413eba67-44d4-4c08-9a0e-f69322add69b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/projectPfa-hotel/projectPfa-hotel/src/main/java/com/Pfa/projectPfa_hotel/response/BookingResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectPfa-hotel/projectPfa-hotel/src/main/java/com/Pfa/projectPfa_hotel/response/RoomResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectPfa-hotel/projectPfa-hotel/src/main/java/com/Pfa/projectPfa_hotel/service/BookedRoomServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectPfa-hotel/projectPfa-hotel/src/main/java/com/Pfa/projectPfa_hotel/service/IBookedRoomService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/projectPfa-hotel/projectPfa-hotel/src/main/java/com/Pfa/projectPfa_hotel/service/RoomService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/projectPfa-hotel/projectPfa-hotel" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="39XPWy4VpJ62SSD21ZINEDfi5tX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.23892.409" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="413eba67-44d4-4c08-9a0e-f69322add69b" name="Changes" comment="" />
+      <created>1770839478997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770839478997</updated>
+    </task>
+    <servers />
+  </component>
+</project>
